@@ -1,0 +1,37 @@
+log 
+b
+​
+ a>k
+If 
+log
+⁡
+b
+a
+>
+k
+log 
+b
+​
+ a>k,
+
+then
+
+T
+(
+n
+)
+=
+Ө
+(
+n
+log
+⁡
+b
+a
+)
+T(n)=Ө(n 
+log 
+b
+​
+ a
+ )

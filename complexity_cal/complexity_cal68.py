@@ -1,0 +1,112 @@
+Solving Recurrence Relation with Master Theorem
+To solve an equation using recurrence relation for a dividing function, the function must be in the following format:
+
+T
+(
+n
+)
+=
+a
+b
++
+f
+(
+n
+)
+T(n)= 
+b
+a
+​
+ +f(n)
+w
+h
+e
+r
+e
+,
+where,
+f
+(
+n
+)
+=
+Ө
+(
+n
+k
+(
+log
+⁡
+n
+)
+p
+)
+,
+f(n)=Ө(n 
+k
+ (logn) 
+p
+ ),
+a
+≥
+1
+,
+b
+>
+1
+,
+a≥1,b>1,
+k
+≥
+1
+,
+k≥1,
+p
+=
+r
+e
+a
+l
+ 
+n
+u
+m
+b
+e
+r
+p=real number
+Next, let's apply the equation to three different cases:
+
+Case 1: 
+log
+⁡
+b
+a
+>
+k
+log 
+b
+​
+ a>k
+Case 2: 
+log
+⁡
+b
+a
+=
+k
+log 
+b
+​
+ a=k
+Case 3: 
+log
+⁡
+b
+a
+<
+k
+log 
+b
+​
+ a<k

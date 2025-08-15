@@ -1,0 +1,72 @@
+log 
+b
+​
+ a=k
+If 
+log
+⁡
+b
+a
+=
+k
+log 
+b
+​
+ a=k, then we should check values of p for three cases:
+
+if p > -1, then 
+T
+(
+n
+)
+=
+Ө
+(
+n
+k
+log
+⁡
+p
++
+1
+n
+)
+T(n)=Ө(n 
+k
+ log 
+p+1
+ n)
+if p = -1, then 
+T
+(
+n
+)
+=
+Ө
+(
+n
+k
+log
+⁡
+log
+⁡
+n
+)
+)
+T(n)=Ө(n 
+k
+ loglogn))
+if p < -1, then 
+T
+(
+n
+)
+=
+Ө
+(
+n
+k
+)
+T(n)=Ө(n 
+k
+ )
